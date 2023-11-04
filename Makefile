@@ -17,4 +17,4 @@ $(CC) $(CFLAGS) -c main.c
 clean:
 -rm calcul *.o*~
 # End Makefile
-
+#Check changes
